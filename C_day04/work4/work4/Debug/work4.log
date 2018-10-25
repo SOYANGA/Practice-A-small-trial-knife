@@ -1,20 +1,16 @@
-﻿生成启动时间为 2018/9/26 13:36:36。
-     1>项目“D:\学习日志\c语言初级阶段\C_day04\work4\work4\work4.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2018/10/25 13:39:48。
+     1>项目“D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\work4\work4.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\2+22+222+2222+22222\4work_3.c "..\..\打印对称图象\4work_1.c" "..\..\标准输入流验证花括号\4work_4.c" "..\..\水仙花数\4work_2.c"
+         D:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\水仙花数\4work_2.c"
          4work_2.c
-         4work_4.c
-         4work_1.c
-         4work_3.c
-         正在生成代码...
        Link:
-         D:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习日志\c语言初级阶段\C_day04\work4\Debug\work4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\学习日志\c语言初级阶段\C_day04\work4\Debug\work4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习日志\c语言初级阶段\C_day04\work4\Debug\work4.lib" /MACHINE:X86 Debug\4work_3.obj
+         D:\c语言\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\Debug\work4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\Debug\work4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\Debug\work4.lib" /MACHINE:X86 Debug\4work_3.obj
          Debug\4work_1.obj
          Debug\4work_4.obj
          Debug\4work_2.obj
-         work4.vcxproj -> D:\学习日志\c语言初级阶段\C_day04\work4\Debug\work4.exe
-     1>已完成生成项目“D:\学习日志\c语言初级阶段\C_day04\work4\work4\work4.vcxproj”(Build 个目标)的操作。
+         work4.vcxproj -> D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\Debug\work4.exe
+     1>已完成生成项目“D:\GitCode\Practice\Practice-A-small-trial-knife\C_day04\work4\work4\work4.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.93
+已用时间 00:00:00.59
